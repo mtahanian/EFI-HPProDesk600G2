@@ -17,7 +17,6 @@ Clover, drivers, and kexts are always up to date!
 | **RAM**      | 16GB                                  |
 | **SSD**      | 256GB SATA SSD + 500GB HDD            |
 | **Display**  | 30' LG TV Display (DP to HDMI)        |
-| **Wi-Fi/BT** | Intel Dual Band Wireless-AC 3165      |
 | ------------ | ------------------------------------- |
 
 ## :white_check_mark: Working:
